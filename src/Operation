@@ -1,0 +1,30 @@
+I 10 990
+i 38 100
+i 371 364
+i 70 335
+I 391 12
+I 3138 77
+i 12 88
+i 521 23
+I 68 1008
+i 816 21
+c 371 364 50
+C 70 335 1009
+A Section A Row 1 Seat 10
+a Section B Row 2 Seat 5
+a Section A Row 5 Seat 9
+s 12
+S 10
+L
+I 7791 109
+i 654 33
+I 97 1472
+I 4220 445
+a Section C Row 3 Seat 1
+A Section C Row 20 Seat 3
+c 654 33 3300
+a Section W Row 7 Seat 1
+A Section W Row 9 Seat 3
+L
+B 5 Section D
+l
